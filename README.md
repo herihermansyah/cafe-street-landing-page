@@ -1,7 +1,7 @@
+![Landing Page Preview](./public/landingPage.png)
 
 # Cafe Street Landing Page
 
-![Landing Page Preview](./public/landingPage.png)
 
 A modern, high-performance Cafe Landing Page designed with a premium aesthetic. This project showcases a seamless user experience and pixel-perfect UI, built using the latest **Next.js 16**, **React 19**, and **Tailwind CSS v4** engine.
 
