@@ -1,7 +1,5 @@
 
-
-```markdown
-# Cafe Street Landing Page ☕
+# Cafe Street Landing Page
 
 ![Landing Page Preview](./public/landingPage.png)
 
@@ -64,7 +62,7 @@ This project leverages a "bleeding-edge" stack for maximum performance and devel
 
 ## 📂 Project Structure
 
-```text
+```
 ├── public/          # Static assets & images
 ├── src/
 │   ├── app/         # Next.js App Router (Pages, Layouts)
@@ -75,7 +73,4 @@ This project leverages a "bleeding-edge" stack for maximum performance and devel
 └── package.json     # Project dependencies & scripts
 ```
 
----
-
 Built with precision by [Heri Hermansyah](https://github.com/herihermansyah)
-```
